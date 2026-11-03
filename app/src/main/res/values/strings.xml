@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mensa Plan</string>
+    <string name="tile_label">Speiseplan</string>
+    <string name="complication_label">Mensa Preis</string>
+
+    <string name="category_student">Studierende</string>
+    <string name="category_staff">Bedienstete</string>
+    <string name="category_guest">Gäste</string>
+
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_price_for">Preis anzeigen für</string>
+    <string name="settings_back">Zurück</string>
+
+    <string name="refresh_now">Jetzt aktualisieren</string>
+    <string name="loading">Speiseplan wird geladen …</string>
+    <string name="no_data">Kein Speiseplan geladen. Tippen zum Aktualisieren.</string>
+    <string name="error_no_data">Speiseplan auf der Seite nicht gefunden.</string>
+    <string name="closed">Geschlossen</string>
+    <string name="dish_counter">%1$d/%2$d</string>
+    <string name="dish_counter_tap">%1$d/%2$d · Tippen: Gericht</string>
+    <string name="tap_next_dish">Krone drehen oder tippen</string>
+    <string name="last_update">Stand: %1$s</string>
+    <string name="never_updated">Noch nicht geladen</string>
+
+    <string name="crown_hint">Tipp auf den Tag: Krone wechselt den Tag</string>
+
+    <string name="tile_no_data">Keine Daten</string>
+    <string name="tile_open_app">Tippen zum Öffnen</string>
+
+    <string name="complication_title">Mensa</string>
+    <string name="complication_content_description">Mensa %1$s</string>
+</resources>
